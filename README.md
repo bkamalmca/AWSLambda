@@ -15,6 +15,6 @@
 * Refer Sample code xURLauth.ipynb  
 
 Ref:
-https://stackoverflow.com/questions/63154781/generate-the-aws-http-signature-from-boto3
-https://github.com/boto/botocore/issues/1784
+https://stackoverflow.com/questions/63154781/generate-the-aws-http-signature-from-boto3  
+https://github.com/boto/botocore/issues/1784  
 https://gist.github.com/rhboyd/1e01190a6b27ca4ba817bf272d5a5f9a
